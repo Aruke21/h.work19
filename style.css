@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(194, 230, 236);
+}
+
+.wrapper{
+    background-color: white;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    height: 350px;
+    margin-top: 100px;
+
+
+}
+
+p{
+    font-size: 18px;
+}
+
+button{
+    background-color: rgb(238, 138, 184);
+    margin-top: 25px;
+    width: 200px;
+    height: 30px;
+    border: 0.5px solid;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input{
+    height: 20px;
+    width: 200px;
+}
+
+.loginResult{
+    margin-top: 30px;
+    border:none;
+    border-bottom: 8px;
+    background-color: lightblue;
+    width: 200px;
+}
